@@ -10,6 +10,36 @@
 *.userosscache
 *.sln.docstates
 
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+#visual studio files
+*.vcxproj
+*.filters
+*.user
+*.sln
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# files
+Resources/*
+__BG__/*
+bin/*
+bin-int/*
+.vs/*
+
+# Local Build files
+/.vs
+/.vscode
+/CMakeSettings.json
+.DS_Store
+*.swp
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
