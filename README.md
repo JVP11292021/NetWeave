@@ -19,11 +19,11 @@ NetWeave is a powerful and flexible C++ networking library designed to simplify 
 ### Prerequisites
 
 - C++11 or later
-- [Dependency, if any]
+- asio 1.2 or later
 
 ### Installation
 
 ```bash
 git clone [repository_url]
 cd NetWeave
-[Build and installation instructions]
+
